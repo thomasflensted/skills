@@ -32,3 +32,5 @@ Add `--global` to any command to target `~/.claude/skills/` instead of the curre
 | --- | --- |
 | `pingpong` | Back-and-forth sparring mode for exploring ideas and stress-testing thinking before jumping to solutions. |
 | `verify-states` | Walk through every visual state of a component one at a time, mocking each so you can verify it in the app. |
+| `data-hooks` | Patterns for writing data fetching and mutation hooks with TanStack Query. |
+| `react-components` | Guidelines for writing clean, consistent React components. |
