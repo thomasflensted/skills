@@ -1,0 +1,19 @@
+{
+  "name": "@thomasflensted/skills",
+  "version": "1.0.0",
+  "description": "CLI to install personal Claude Code skills",
+  "type": "module",
+  "bin": {
+    "skills": "./bin/cli.mjs"
+  },
+  "files": [
+    "bin/",
+    "skills/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomasflensted/skills.git"
+  },
+  "license": "MIT",
+  "author": "thomasflensted"
+}
