@@ -1,6 +1,6 @@
 {
   "name": "@thomasflensted/skills",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "CLI to install personal Claude Code skills",
   "type": "module",
   "bin": {
